@@ -1,0 +1,2 @@
+{names: [BLACK, BROKEN, BROWN, BigBroken, IMMATURE, INSECT, MOLD, PartlyBlack, LIGHTFM,
+    HEAVYFM], nc: 10, train: train, val: valid}
